@@ -1,8 +1,9 @@
-
 ---
 layout: default
 title: "Contact"
+permalink: /contact/
 ---
+
 
 If you would like to contact me about this project, you can reach me at:
 
