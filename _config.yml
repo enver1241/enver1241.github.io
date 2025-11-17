@@ -1,0 +1,17 @@
+title: "My GitHub Pages Jekyll Site"
+description: "A sample website created for the GitHub Pages assignment."
+author: "ENVER GİDİCİ"
+theme: minima
+baseurl: ""
+url: "https://envergidici.github.io"
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Tutorials"
+    url: "/tutorials/"
+  - title: "Resources"
+    url: "/resources/"
+  - title: "Contact"
+    url: "/contact/"
